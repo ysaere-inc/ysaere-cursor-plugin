@@ -1,0 +1,23 @@
+{
+  "name": "ysaere",
+  "version": "0.2.0",
+  "description": "Traceable research and counterparty checks for agents: Vendor KYB, SAM contractor checks, sanctions and wallet screens, sourced briefs, and Notary receipts you can verify.",
+  "author": {
+    "name": "Ysaere Inc",
+    "email": "ysaere.inc@gmail.com"
+  },
+  "homepage": "https://ysaere.com",
+  "repository": "https://github.com/ysaere-inc/ysaere-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "kyb",
+    "due-diligence",
+    "sanctions",
+    "sam-gov",
+    "research",
+    "provenance",
+    "receipts",
+    "mcp"
+  ]
+}
